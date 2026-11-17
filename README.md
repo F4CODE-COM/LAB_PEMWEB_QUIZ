@@ -1,27 +1,21 @@
-# Todo List – React.js
+Todo List – React.js
 
 Aplikasi To-Do List frontend (React + Vite + Tailwind CSS) dengan data dummy.
 Fitur: lihat daftar, lihat detail, tambah, update, dan hapus tugas (dengan konfirmasi + notifikasi).
 
-## Struktur data
+
 ```js
 { id, title, description, priority, deadline, status }
 ```
 
-## Menjalankan
-```bash
-npm install
-npm run dev
-```
-Buka http://localhost:5173
 
-## Screenshot
-> Ganti dengan screenshot hasil aplikasi kamu (simpan di folder `screenshots/`).
+Screenshot
+
 
 | Halaman | Screenshot |
 |---|---|
-| Daftar Todo | ![list](screenshots/list.png) |
-| Tambah Todo | ![add](screenshots/add.png) |
-| Detail Todo | ![detail](screenshots/detail.png) |
-| Update Todo | ![update](screenshots/update.png) |
-| Konfirmasi Hapus | ![delete](screenshots/delete.png) |
+| Daftar Todo | ![list](List.png) |
+| Tambah Todo | ![add](Add.png) |
+| Detail Todo | ![detail](Detail.png) |
+| Update Todo | ![update](Update.png) |
+| Konfirmasi Hapus | ![delete](Delete.png) |
