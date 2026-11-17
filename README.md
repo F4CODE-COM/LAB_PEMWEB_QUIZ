@@ -7,7 +7,7 @@ LAB  : 3 PEMROGRAMAN WEB
 Todo List – React.js
 
 Aplikasi To-Do List Pekerjaan dengan data dummy.
-Fitur: lihat daftar, lihat detail, tambah, update, dan hapus tugas (dengan konfirmasi + notifikasi).
+Fitur: lihat daftar, lihat detail, tambah, update, dan hapus tugas.
 
 
 
